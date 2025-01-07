@@ -1,0 +1,12 @@
+.contact-container {
+    background-color: #ffe4e1; 
+    color: #000; 
+    text-align: center; 
+    padding: 20px; 
+    font-family: 'Verdana', sans-serif; 
+    min-height: 100vh; 
+}
+.contact-container ul {
+    list-style: none; 
+    padding: 0; 
+}

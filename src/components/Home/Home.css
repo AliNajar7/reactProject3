@@ -1,0 +1,12 @@
+.home-container {
+    background-color: #f0f8ff;
+    color: #000; 
+    text-align: center; 
+    padding: 20px; 
+    font-family: Arial, sans-serif; 
+    min-height: 100vh; 
+}
+.home-container ul {
+    list-style: none; 
+    padding: 0; 
+}

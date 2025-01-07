@@ -1,0 +1,12 @@
+.about-container {
+    background-color: #e6e6fa;
+    color: #000; 
+    text-align: center; 
+    padding: 20px; 
+    font-family: 'Georgia', serif; 
+    min-height: 100vh; 
+}
+.about-container ol {
+    list-style: none; 
+    padding: 0; 
+}
